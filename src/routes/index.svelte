@@ -4,7 +4,7 @@
 
 <div class="index">
     <h2>Welcome</h2>
-    <p> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sit dolorem beatae nam magnam consequatur aut praesentium nemo cumque officia possimus deleniti fugiat, aliquid fugit autem quibusdam dolor unde eaque rerum?</p>
+    <p> Demo Sveltekit Website with links and dynamic data and routes, layout with reset layout, error rerouting and custom error page</p>
     <a href="/guides">View Guides</a>
     <a href="/about">About Us</a>
 </div>
