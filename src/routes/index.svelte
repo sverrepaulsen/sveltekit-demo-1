@@ -4,7 +4,7 @@
 
 <div class="index">
     <h2>Welcome</h2>
-    <p> Demo Sveltekit Website with links and dynamic data and routes, layout with reset layout, error rerouting and custom error page</p>
+    <p> Demo Sveltekit Website with links, data and routes, API endpoints, layout with reset layout, error rerouting and custom error page</p>
     <a href="/guides">View Guides</a>
     <a href="/about">About Us</a>
 </div>
